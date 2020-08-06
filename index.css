@@ -1,0 +1,12 @@
+.redPara{
+    color: red;
+}
+
+.greenPara{
+    color: green;
+}
+
+.coloredBox{
+    background-color: black;
+    margin:5px;
+}
